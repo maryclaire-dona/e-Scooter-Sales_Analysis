@@ -1,6 +1,6 @@
 # Sales Analysis for e-Scooter product line
 
-Premise:
+**Premise:**
 
 A company that manufactures and sells electric scooters want to identify the factors affecting low sales performance of its Bat model . Pre-orders for the Bat were initially good, but the orders suddenly dropped by 20%. 
 The job of to the analyst is to investigate the situation by performing the following tasks:pri
